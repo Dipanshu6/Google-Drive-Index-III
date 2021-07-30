@@ -9,9 +9,9 @@ var authConfig = {
     "accent_color": "light-blue",
     "dark_theme": true, //make sure you set main color
     "search": false,
-    "client_id": "202264815644.apps.googleusercontent.com",
-    "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-    "refresh_token": "1//03vVPfOIq4GbLCgYIARAAGAMSNwF-L9IrKlxOnP2YyXabRwMetWpO5KdwFp7_W97UOBCq3eXsgkwttQaGzhdFUogf_93xbvo2fOI", // Authorization token
+    "client_id": "475541307615-8rleubj8cqefd4e4n19iricead7mmhcn.apps.googleusercontent.com",
+    "client_secret": "vN8Oo3RWik0TsI77JsEnS92S",
+    "refresh_token": "1//04HDoldOjyJsFCgYIARAAGAQSNwF-L9IrEc2zKxKo5g0Icd6bJow6U_yiCZNl7-5IqOPiexHZfhTKPuKhlrwvGpVCu36gGxJccyE", // Authorization token
     "root": "root" // Root directory ID
   };
   var gd;
